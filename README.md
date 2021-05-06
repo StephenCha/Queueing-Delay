@@ -22,6 +22,12 @@ Details can be found through the queuing delay 1 function annotation. When queui
 
 I looked into the relationship between queuing delay and size when queuing is not infinite.
 
+## Try Code!
+``` python
+# In zsh (your terminal)
+python Queuing_Delay.py
+```  
+
 ## Results
 
 ![Result](https://user-images.githubusercontent.com/17807597/117294099-35caf200-aead-11eb-8a96-f1b69f705589.png)
