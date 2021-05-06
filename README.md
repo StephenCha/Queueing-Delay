@@ -7,7 +7,7 @@ If a data packet is sent to the lighter and is fast, the router temporarily queu
 ### Terminology
 
  Packet loss : a packet that is thrown away when data continues to come in even though the queue is full. 
- 
+
 ### Requirements
 
 Python 3
@@ -26,7 +26,7 @@ I looked into the relationship between queuing delay and size when queuing is no
 ``` zsh
 # In zsh (your terminal)
 python Queuing_Delay.py
-```  
+```
 
 ## Results
 
@@ -59,4 +59,6 @@ The difference from the previous graph is found in velocity of transmitted queue
 
 ## Reference
 
-From Books, Probability, Statistics, and Random Processes for Electrical Engineering, Alberto Leon-Garcia, Chapter 12 Introduction to Queueing Theory p.713
+#### Books
+
+Probability, Statistics, and Random Processes for Electrical Engineering, Alberto Leon-Garcia, Chapter 12 Introduction to Queueing Theory p.713
